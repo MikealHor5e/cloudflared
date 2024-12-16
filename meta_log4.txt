@@ -1,0 +1,38 @@
+﻿2023-04-08 6:52:50 PM[LOG]{"gender":"1","uid":"1406232860121243649","coin":"2555","messageType":"1"}
+2023-04-08 6:52:50 PM[LOG]{"gender":"0","scene":"2","uid":"1268346179306004481","source":"2","messageType":"3"}
+2023-04-08 6:52:50 PM[LOG]http://cmsstore.esxscloud.com/avatar_unzip/avatar/client_resource/ios/IOS1_2_0_126_1051.zip/IOSVersion.txt
+2023-04-08 6:52:51 PM[LOG]Latest game version is '1.2.0 (126)', local game version is '4.5.91 (0)'.
+2023-04-08 6:52:51 PM[LOG]m_NeedUpdateVersion = true
+2023-04-08 6:52:51 PM[LOG]Handle Message {"gender":"0","scene":"2","uid":"1268346179306004481","source":"2","messageType":"3","internalTrans":"168099436995420"}
+2023-04-08 6:52:51 PM[LOG]1406232860121243649
+2023-04-08 6:52:52 PM[LOG]Scene OnLoadSuccessUnityGameFramework.Runtime.LoadSceneSuccessEventArgs
+2023-04-08 6:52:59 PM[LOG]Scene OnUnLoadSceneSuccessUnityGameFramework.Runtime.UnloadSceneSuccessEventArgs
+2023-04-08 6:52:59 PM[LOG]Scene OnLoadSuccessUnityGameFramework.Runtime.LoadSceneSuccessEventArgs
+2023-04-08 6:53:21 PM[LOG]OnApplicationPause =True
+2023-05-12 5:51:26 AM[LOG]{"gender":"1","uid":"1406232860121243649","coin":"2076","messageType":"1"}
+2023-05-12 5:51:26 AM[LOG]{"gender":"1","scene":"1","uid":"1406232860121243649","source":"1","messageType":"3"}
+2023-05-12 5:51:26 AM[LOG]{"status":"1","path":"","messageType":"7","isRelease":"1","progress":"1"}
+2023-05-12 5:51:27 AM[LOG]OnApplicationPause =True
+2023-05-12 5:51:27 AM[LOG]OnApplicationPause =False
+2023-05-12 5:51:27 AM[LOG]{"messageType":"2"}
+2023-05-12 5:51:27 AM[LOG]http://cmsstore.esxscloud.com/avatar_unzip/avatar/client_resource/ios/IOSFull1_3_0_182_110.zip/IOSVersion.txt
+2023-05-12 5:51:27 AM[LOG]Latest game version is '1.3.0 (182)', local game version is '4.6.15 (0)'.
+2023-05-12 5:51:27 AM[LOG]m_NeedUpdateVersion = true
+2023-05-12 5:51:44 AM[LOG]Handle Message {"messageType":"2","internalTrans":"1683885087284.842"}
+2023-05-12 5:58:37 AM[LOG]OnApplicationPause =True
+2023-05-13 9:34:43 AM[LOG]{"gender":"1","uid":"1406232860121243649","coin":"2076","messageType":"1"}
+2023-05-13 9:34:43 AM[LOG]{"gender":"1","scene":"1","uid":"1406232860121243649","source":"1","messageType":"3"}
+2023-05-13 9:34:43 AM[LOG]{"status":"1","path":"","messageType":"7","isRelease":"1","progress":"1"}
+2023-05-13 9:34:44 AM[LOG]http://cmsstore.esxscloud.com/avatar_unzip/avatar/client_resource/ios/IOSFull1_3_0_182_110.zip/IOSVersion.txt
+2023-05-13 9:34:44 AM[LOG]Latest game version is '1.3.0 (182)', local game version is '4.6.15 (0)'.
+2023-05-13 9:34:44 AM[LOG]m_NeedUpdateVersion = true
+2023-05-13 9:34:44 AM[LOG]Handle Message {"gender":"1","scene":"1","uid":"1406232860121243649","source":"1","messageType":"3","internalTrans":"1683984883467131"}
+2023-05-13 9:34:44 AM[LOG]1406232860121243649
+2023-05-13 9:34:44 AM[LOG]OnApplicationPause =True
+2023-05-13 9:34:44 AM[LOG]OnApplicationPause =False
+2023-05-13 9:34:44 AM[LOG]{"messageType":"2"}
+2023-05-13 9:34:45 AM[LOG]Scene OnLoadSuccessUnityGameFramework.Runtime.LoadSceneSuccessEventArgs
+2023-05-13 9:34:45 AM[LOG]Handle Message {"messageType":"2","internalTrans":"1683984884765.429"}
+2023-05-13 9:34:45 AM[LOG]Scene OnUnLoadSceneSuccessUnityGameFramework.Runtime.UnloadSceneSuccessEventArgs
+2023-05-13 9:34:45 AM[LOG]UnLoadAllLoadedScene complete
+2023-05-13 9:35:19 AM[LOG]OnApplicationPause =True
